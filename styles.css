@@ -181,6 +181,8 @@ background-color: rgb(247, 98, 98);
         justify-items: center;
         align-content: center;
         gap: 40px;
+        padding-top: 20px;
+        padding-left: 20px;
     }
 
     .precio{
