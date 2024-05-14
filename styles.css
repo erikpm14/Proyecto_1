@@ -65,10 +65,8 @@ header > img {
 .tarjeta_producto {
 display: grid;
 width: 250px;
-margin: 200px auto; 
-padding: 10px 0px ; 
+padding: 10px 0px; 
 border-radius: 10px;
-gap: 20px; 
 box-shadow: 0px 6px 23px -15px black ; 
 transition: transform 0.5s;
 
@@ -85,6 +83,7 @@ transform: scale(1.1);
 }
 
 .tarjeta_producto > h4 { 
+
     font-size: 20px;
     padding: 20px;
     text-align: center;
@@ -104,7 +103,7 @@ margin: 0px 20px;
 
 .tarjeta_producto button {
 cursor: pointer;
-padding: 10px 20px;
+padding: 10px 10px;
 margin: 10px; 
 border: 1px solid black;
 border-radius: 10px;
